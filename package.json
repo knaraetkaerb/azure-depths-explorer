@@ -1,0 +1,31 @@
+{
+  "name": "azure-depths-explorer",
+  "version": "1.0.0",
+  "description": "Facilitates seamless integration of blockchain technologies into existing financial systems, promoting transparency and security in transactions.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/azure-depths-explorer"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "digital-herb-gardener": "1.0.0",
+    "starlight-canvas-painter": "1.0.0",
+    "sequelize": "1.0.0",
+    "dotenv": "1.0.0",
+    "web3": "1.0.0",
+    "eslint": "1.0.0",
+    "supertest": "1.0.0",
+    "lodash": "1.0.0",
+    "sinon": "1.0.0",
+    "passport": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "validator": "1.0.0"
+  }
+}
